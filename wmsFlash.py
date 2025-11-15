@@ -24,13 +24,13 @@ while controlador == 0:
     pyautogui.press("enter")
     sleep(20)
     # Entra no login
-    pyautogui.write("guilherme.dcastro@americanas.io",interval= 0.1)
+    pyautogui.write("coloca o login do associado",interval= 0.1)
     pyautogui.press("tab")
     pyautogui.press("tab")
     pyautogui.press("enter")
     sleep(20)
     # Entra na senha
-    pyautogui.write("@MiguelFrancisco041016")
+    pyautogui.write("coloca a senha")
     pyautogui.press("tab")
     pyautogui.press("tab")
     pyautogui.press("tab")
